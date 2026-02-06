@@ -1,6 +1,6 @@
 # 📚 Library Website
 
-> A cozy fullstack project to organize, customize, and explore my personal library — my own way 💖
+> A cozy fullstack project to organize, customize, and explore my personal library — my own way 💖 .
 
 ---
 
